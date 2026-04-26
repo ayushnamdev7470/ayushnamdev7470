@@ -8,7 +8,7 @@
   <a href="mailto:ayushnamdev7470@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ayushnamdev7470@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/ayushnamdev" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-namdev-381b64269/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ayushnamdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
